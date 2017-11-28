@@ -1,0 +1,15 @@
+{
+  "name": "ITTWEB-Assignment1-FitnessApp",
+  "website": "https://ittweb1.herokuapp.com/",
+  "repository": "https://github.com/jeppestaerk/ITTWEB-Assignment1-FitnessApp",
+  "logo": "https://ittweb1.herokuapp.com/images/fitness-facilities-black.png",
+  "keywords": ["node", "express", "pug"],
+  "addons": [
+    {
+      "plan": "mongolab:sandbox"
+    },
+    {
+      "plan": "papertrail:choklad"
+    }
+  ]
+}
